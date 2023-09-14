@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Fortuna09/Fortuna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt text](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-Here are some ideas to get you started:
+### Meu nome é Fortuna 
+- Cursando Ciência da Computacao na Universidade Federal de Alfenas - UNIFAL.
+- Interresado na área de front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortunarafael9@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafablaster&layout=compact&theme=dark&show)](https://github.com/rafablaster/github-readme-stats)
+
+## Atualmente aprendendo
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,js,html,css" />
+  </a>
+</p>
+ 
+</div>
