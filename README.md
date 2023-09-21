@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafablaster&layout=compact&theme=dark&show)](https://github.com/rafablaster/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortuna09&layout=compact&theme=dark&show)](https://github.com/Fortuna09/github-readme-stats)
 
 ## Atualmente aprendendo
 <p align="center">
