@@ -5,7 +5,7 @@
 - Cursando Ciência da Computacao na Universidade Federal de Alfenas - UNIFAL.
 - Interresado na área de front-end.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortunarafael9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.fortuna@sou.unifal-mg.edu.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
 
 
