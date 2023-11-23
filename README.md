@@ -8,11 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortuna09&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortuna09&layout=compact&theme=dark&show)](https://github.com/Fortuna09/github-readme-stats)
-
-
 ## Atualmente aprendendo
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
