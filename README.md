@@ -1,6 +1,6 @@
 
 # Meu nome é Rafael Fortuna 
-Sou um entusiasta tecnológico apaixonado por desafios criativos e inovação. Sou estudante do curso Ciências da Computação em Universidade Federal de Alfenas e uma paixão ardente pela tecnologia, venho explorando e contribuindo para o mundo da programação com ênfase em desenvolvimento de dados e front-end.
+Sou estudante do curso Ciências da Computação em Universidade Federal de Alfenas, venho explorando e contribuindo para o mundo da programação com ênfase em desenvolvimento de dados e front-end.
 
 📊 Tenho um interesse particular na área de dados, onde busco não apenas compreender a estrutura e o poder por trás dos dados, mas também extrair insights valiosos para impulsionar a tomada de decisões e aprimorar produtos e serviços.
 
