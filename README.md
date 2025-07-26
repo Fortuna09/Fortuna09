@@ -1,13 +1,8 @@
 # Olá, eu sou o Rafael Fortuna! 👋
 
 <p align="left"> 
-  Sou um estudante de Ciência da Computação na <strong>Universidade Federal de Alfenas (UNIFAL-MG)</strong>, fascinado pelo poder da tecnologia para criar soluções inovadoras.
+  Sou um estudante de Ciência da Computação na <strong>Universidade Federal de Alfenas (UNIFAL-MG)</strong>
 </p>
-
-- 🔭 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento backend e banco de dados.
-- 🌱 Tenho interesse especial em otimização de sistemas e arquitetura de software.
-- 🤔 Buscando oportunidades para colaborar em projetos desafiadores e de código aberto.
-- 📫 Como me encontrar: **rafael.fortuna@sou.unifal-mg.edu.br**
 
 ---
 
