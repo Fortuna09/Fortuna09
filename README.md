@@ -1,7 +1,7 @@
-# Olá, eu sou o Rafael Fortuna! 👋
+# Olá, eu sou o Rafael Fortuna! 
 
 <p align="left"> 
-  Sou um estudante de Ciência da Computação na <strong>Universidade Federal de Alfenas (UNIFAL-MG)</strong>
+  Sou estudante de Ciência da Computação na <strong>Universidade Federal de Alfenas (UNIFAL-MG)</strong>
 </p>
 
 ---
@@ -29,9 +29,10 @@
 
 ## 📫 Entre em Contato
 
-
+<p align="left">
 <a href="https://www.linkedin.com/in/rafael-fortuna-990184264/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rafael-fortuna-990184264" height="30" width="40" /></a><br><br>
 <a href="https://www.instagram.com/fortuna_rafael/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="fortuna_rafael" height="30" width="40" /></a><br><br>
 <a href="https://fortuna-portifolio.netlify.app/" target="blank">VEJA AQUI MEU PORTIFÓLIO</a><br><br>
 Email: fortunarafael9@gmail.com
+<\p>
 
