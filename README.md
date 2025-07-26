@@ -32,9 +32,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rafael-fortuna-990184264/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rafael-fortuna-990184264" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fortuna_rafael/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="fortuna_rafael" height="30" width="40" /></a>
-<a href="https://fortuna-portifolio.netlify.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=r" alt="portifolio-fortuna" height="30" width="40" /></a>
-</p>
-<br>
-<p>
-  Email: fortunarafael9@gmail.com
+<a href="https://fortuna-portifolio.netlify.app/" target="blank"> <q>VEJA AQUI MEU PORTIFÓLIO<\q></a>
+Email: fortunarafael9@gmail.com
 </p>
