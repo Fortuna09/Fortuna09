@@ -30,8 +30,8 @@
 ## 📫 Entre em Contato
 
 
-<a href="https://www.linkedin.com/in/rafael-fortuna-990184264/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rafael-fortuna-990184264" height="30" width="40" /></a><br>
-<a href="https://www.instagram.com/fortuna_rafael/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="fortuna_rafael" height="30" width="40" /></a><br>
-<a href="https://fortuna-portifolio.netlify.app/" target="blank">VEJA AQUI MEU PORTIFÓLIO</a><br>
+<a href="https://www.linkedin.com/in/rafael-fortuna-990184264/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rafael-fortuna-990184264" height="30" width="40" /></a><br><br>
+<a href="https://www.instagram.com/fortuna_rafael/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="fortuna_rafael" height="30" width="40" /></a><br><br>
+<a href="https://fortuna-portifolio.netlify.app/" target="blank">VEJA AQUI MEU PORTIFÓLIO</a><br><br>
 Email: fortunarafael9@gmail.com
 
