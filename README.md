@@ -1,4 +1,4 @@
-# Hi, my name is Rafael Fortuna! 
+# Hi, my name is Rafael Fortuna. Web, front end and mobile developer
 
 ### 💻 📱 I architect intuitive digital experiences that foster meaningful connections between users and brands on web and mobile.
 
