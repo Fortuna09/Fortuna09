@@ -30,16 +30,6 @@ My goal is to build robust client-side architectures, bridging the gap between c
 
 ---
 
-<!-- ### ⚡ GitHub Stats
-
-<div align="center"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fortuna09&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortuna09&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
-</div>-->
-
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelfortuna)
