@@ -1,17 +1,17 @@
-# Hi there, I'm Rafael Fortuna! 👋
+# Hi there, I'm Rafael Fortuna!
 
 ### Software Engineer | Front-End Specialist (Angular & React)
 
 I am a Computer Science student (UNIFAL) focused on **Software Engineering** applied to modern Web Interfaces.
 My goal is to build robust client-side architectures, bridging the gap between complex backend logic and user experience.
 
-- 🔭 **Web Engineering:** I specialize in building complex, high-performance web applications using **Angular** and **React**.
-- ⚛️ **React Ecosystem:** Experienced in developing scalable component architectures and handling complex logic within the React ecosystem (Web & Mobile).
-- 🧩 **Problem Solving:** Passionate about Algorithms, Data Structures, and Clean Code.
+- **Web Engineering:** I specialize in building complex, high-performance web applications using **Angular** and **React**.
+- **React Ecosystem:** Experienced in developing scalable component architectures and handling complex logic within the React ecosystem (Web & Mobile).
+- **Problem Solving:** Passionate about Algorithms, Data Structures, and Clean Code.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Front-End Core**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,7 +30,7 @@ My goal is to build robust client-side architectures, bridging the gap between c
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelfortuna)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fortuna-portfolio.netlify.app/)
