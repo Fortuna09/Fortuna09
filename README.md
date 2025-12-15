@@ -1,27 +1,27 @@
 # Hi there, I'm Rafael Fortuna! 👋
 
-### Software Engineer | Front-End & Mobile Specialist
+### Software Engineer | Front-End Specialist (Angular & React)
 
-I am a Computer Science student (UNIFAL) focused on **Software Engineering** applied to the Front-End.
-My goal is to build robust architectures, ensuring performance and scalability on both Web and Mobile platforms.
+I am a Computer Science student (UNIFAL) focused on **Software Engineering** applied to modern Web Interfaces.
+My goal is to build robust client-side architectures, bridging the gap between complex backend logic and user experience.
 
-- 🔭 **Web Engineering (Focus):** I specialize in building complex, high-performance web applications using **Angular** and **TypeScript**.
-- 📱 **Mobile Development:** I have solid experience creating native mobile experiences for iOS and Android using **React Native** and the **React Ecosystem**.
-- 🧩 **Problem Solving:** Passionate about Algorithms, Clean Code, and bridging the gap between Backend logic and User Interface.
+- 🔭 **Web Engineering:** I specialize in building complex, high-performance web applications using **Angular** and **React**.
+- ⚛️ **React Ecosystem:** Experienced in developing scalable component architectures and handling complex logic within the React ecosystem (Web & Mobile).
+- 🧩 **Problem Solving:** Passionate about Algorithms, Data Structures, and Clean Code.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Core & Web**
+**Front-End Core**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-
-**Mobile & React Ecosystem**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**State & Logic**
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Tools & Backend**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,5 +41,5 @@ My goal is to build robust architectures, ensuring performance and scalability o
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fortuna-990184264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelfortuna)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fortuna-portfolio.netlify.app/)
